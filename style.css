@@ -5,7 +5,6 @@ body{
     "cabe cabe cabe"
     "secu prin prin"
     "roda roda roda";
-    gap: 10px;
     
 }
 
@@ -28,4 +27,8 @@ body{
 .rodape{
     grid-area: roda;
     background-color: chartreuse;
+}
+
+.sla{
+    width: 30%;
 }

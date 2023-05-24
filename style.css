@@ -1,0 +1,30 @@
+body{
+    background-color: blue;
+    display: grid;
+    grid-template-areas:
+    "cabe cabe cabe"
+    "secu prin prin"
+    "roda roda roda"
+    ;
+    
+}
+
+.cabeca{
+    grid-area: cabe;
+    background-color: rgb(121, 0, 177);
+}
+
+.secundario{
+    grid-area: secu;
+    background-color: rgb(255, 61, 213);
+}
+
+.principal{
+    grid-area: prin;
+    background-color: rgb(255, 0, 0);
+}
+
+.rodape{
+    grid-area: roda;
+    background-color: chartreuse;
+}

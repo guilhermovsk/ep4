@@ -3,7 +3,7 @@ body{
     display: grid;
     grid-template-areas:
     "cabe cabe cabe"
-    "secu prin prin"
+    "secu secu prin"
     "roda roda roda";
     
 }
@@ -29,10 +29,3 @@ body{
     background-color: chartreuse;
 }
 
-.calca{
-    
-}
-
-.loko,.loco{
-    margin-left: 30%;
-}

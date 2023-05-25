@@ -29,6 +29,10 @@ body{
     background-color: chartreuse;
 }
 
-.sla{
-    width: 30%;
+.calca{
+    text-align: center;
+}
+
+.loko,.loco{
+    text-align: center;
 }

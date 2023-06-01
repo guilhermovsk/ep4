@@ -10,23 +10,24 @@ body{
 
 .cabeca{
     grid-area: cabe;
-    background-color: rgb(121, 0, 177);
+    background-color: rgb(255, 107, 218);
    
 }
 
 .secundario{
     grid-area: secu;
-    background-color: rgb(255, 61, 213);
+    background-color: rgb(255, 255, 255);
 }
 
 .principal{
     grid-area: prin;
-    background-color: rgb(255, 0, 0);
+    background-color: rgb(255, 255, 255);
 }
 
 .rodape{
     grid-area: roda;
-    background-color: chartreuse;
+    background-color: rgb(255, 107, 255);
+
 }
 
 .loko,.loco{

@@ -1,11 +1,12 @@
 body{
-    background-color: blue;
+    background-color: rgb(255, 107, 255);
     display: grid;
     grid-template-areas:
     "cabe cabe cabe"
     "prin secu secu"
     "roda roda roda";
     border-radius: 20px;
+
 
 
     

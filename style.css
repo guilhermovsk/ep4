@@ -3,7 +3,7 @@ body{
     display: grid;
     grid-template-areas:
     "cabe cabe cabe"
-    "secu secu prin"
+    "prin secu secu"
     "roda roda roda";
     
 }

@@ -38,10 +38,6 @@ body{
 
 }
 
-.loko,.loco{
-    
-}
-
 .titulo{
     text-align: center;
     
@@ -49,4 +45,7 @@ body{
 
 .logo{
     width: 10%;
+}
+.farofa{
+    text-align: center;
 }

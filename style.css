@@ -15,22 +15,26 @@ body{
 .cabeca{
     grid-area: cabe;
     background-color: rgb(255, 107, 218);
+    border-radius: 20px;
    
 }
 
 .secundario{
     grid-area: secu;
     background-color: rgb(255, 255, 255);
+    border-radius: 20px;
 }
 
 .principal{
     grid-area: prin;
     background-color: rgb(255, 255, 255);
+    border-radius: 20px;
 }
 
 .rodape{
     grid-area: roda;
     background-color: rgb(255, 107, 255);
+    border-radius: 20px;
 
 }
 
@@ -43,3 +47,6 @@ body{
     
 }
 
+.logo{
+    width: 10%;
+}

@@ -43,14 +43,20 @@ body{
     
 }
 
+/* altera o tamanho da imagem do footer e logo*/
+
 .logo{
     width: 10%;
 }
+
+/* serve para centralizar o texto*/
+
 .farofa{
     text-align: center;
     ;
 }
 
+/* aqui serve para centralizar os creditos*/
 
 .creditos{
     text-align: center;

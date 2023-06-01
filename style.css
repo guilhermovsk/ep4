@@ -14,7 +14,7 @@ body{
 
 .cabeca{
     grid-area: cabe;
-    background-color: rgb(255, 107, 218);
+    background-color: rgb(253, 95, 214);
     border-radius: 20px;
    
 }
@@ -33,7 +33,7 @@ body{
 
 .rodape{
     grid-area: roda;
-    background-color: rgb(255, 107, 255);
+    background-color: rgb(253, 95, 214);
     border-radius: 40px;
 
 }
